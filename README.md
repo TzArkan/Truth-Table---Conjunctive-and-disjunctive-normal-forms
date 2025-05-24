@@ -1,0 +1,1 @@
+# Truth-Table---Conjunctive-and-disjunctive-normal-forms
